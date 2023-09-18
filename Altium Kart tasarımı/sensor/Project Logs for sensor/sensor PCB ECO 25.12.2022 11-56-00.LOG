@@ -1,0 +1,155 @@
+Add Component: Footprint Not Found 10X10.5 Cap
+Add Component: Footprint Not Found Case A
+Add Component: Footprint Not Found Case A
+Add Component: Footprint Not Found Case A
+Add Component: Footprint Not Found 10X10.5 Cap
+Add Component: Footprint Not Found Case A
+Add Component: Footprint Not Found DO-214AA
+Add Component: Footprint Not Found DO-214AA
+Add Component: Footprint Not Found SOD123
+Add Component: Footprint Not Found SOD123FL
+Add Component: Footprint Not Found 0603 Led
+Add Component: Footprint Not Found 6125 Fuse
+Add Component: Footprint Not Found 6125 Fuse
+Add Component: Footprint Not Found 12X12X5MM INDUCTOR
+Add Component: Footprint Not Found 0603 IND
+Add Component: Footprint Not Found 0603 IND
+Add Component: Footprint Not Found KLEMENS 5.08MM-2
+Add Component: Footprint Not Found KLEMENS 5.08MM-2
+Added Component: Designator=P4(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SPST-NO (1 Form A)
+Add Component: Footprint Not Found 6x6mm Tach Switch
+Add Component: Footprint Not Found D2PAK-5
+Add Component: Footprint Not Found SOT223-3
+Add Component: Footprint Not Found LQFP48
+Add Component: Footprint Not Found MÝNÝ USB
+Add Component: Footprint Not Found 128x32 OLED
+Add Component: Footprint Not Found SMD-2 XTAL
+Add Component: Footprint Not Found 3.20x1.50x0.80
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin F2-1
+Add Pin To Net: Unknown Pin: Pin F2-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin P1-1
+Add Pin To Net: Unknown Pin: Pin P1-2
+Add Pin To Net: Unknown Pin: Pin P2-1
+Add Pin To Net: Unknown Pin: Pin P2-2
+Added Pin To Net: NetName=VCC Pin=P4-2
+Added Pin To Net: NetName=PA14-JTCK_SWCLK Pin=P4-4
+Added Pin To Net: NetName=PA13-JTMS_SWDIO Pin=P4-6
+Added Pin To Net: NetName=GND Pin=P4-8
+Add Pin To Net: Unknown Pin: Pin RL1-1
+Add Pin To Net: Unknown Pin: Pin RL1-2
+Add Pin To Net: Unknown Pin: Pin RL1-3
+Add Pin To Net: Unknown Pin: Pin RL1-4
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-22
+Add Pin To Net: Unknown Pin: Pin U3-23
+Add Pin To Net: Unknown Pin: Pin U3-24
+Add Pin To Net: Unknown Pin: Pin U3-30
+Add Pin To Net: Unknown Pin: Pin U3-31
+Add Pin To Net: Unknown Pin: Pin U3-32
+Add Pin To Net: Unknown Pin: Pin U3-33
+Add Pin To Net: Unknown Pin: Pin U3-34
+Add Pin To Net: Unknown Pin: Pin U3-35
+Add Pin To Net: Unknown Pin: Pin U3-36
+Add Pin To Net: Unknown Pin: Pin U3-37
+Add Pin To Net: Unknown Pin: Pin U3-42
+Add Pin To Net: Unknown Pin: Pin U3-43
+Add Pin To Net: Unknown Pin: Pin U3-44
+Add Pin To Net: Unknown Pin: Pin U3-46
+Add Pin To Net: Unknown Pin: Pin U3-47
+Add Pin To Net: Unknown Pin: Pin U3-48
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U5-9
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-4
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-2
+Add Class Member: Failed to add class member : Component C1 470 uF
+Add Class Member: Failed to add class member : Component C2 10 uF
+Add Class Member: Failed to add class member : Component C3 10 uF
+Add Class Member: Failed to add class member : Component C4 10 uF
+Add Class Member: Failed to add class member : Component C5 220 uF
+Add Class Member: Failed to add class member : Component C6 1 uF
+Add Class Member: Failed to add class member : Component D1 SS310
+Add Class Member: Failed to add class member : Component D2 SS310
+Add Class Member: Failed to add class member : Component D3 B5819W
+Add Class Member: Failed to add class member : Component D4 GS1010FL
+Add Class Member: Failed to add class member : Component D5 LED
+Add Class Member: Failed to add class member : Component F1 3.5A
+Add Class Member: Failed to add class member : Component F2 500mA
+Add Class Member: Failed to add class member : Component L1 100 uH
+Add Class Member: Failed to add class member : Component L2 10 uH
+Add Class Member: Failed to add class member : Component L3 10 uH
+Add Class Member: Failed to add class member : Component P1 Klemens 5.08
+Add Class Member: Failed to add class member : Component P2 FLASÖR
+Added Member To Class: ClassName=sensor Member=Component P4 Header 8
+Add Class Member: Failed to add class member : Component RL1 ALDP105W
+Add Class Member: Failed to add class member : Component S1 Switch
+Add Class Member: Failed to add class member : Component U1 LM2596-ADJ
+Add Class Member: Failed to add class member : Component U2 LM1117
+Add Class Member: Failed to add class member : Component U3 STM32F103C8T6
+Add Class Member: Failed to add class member : Component U5 Mini USB
+Add Class Member: Failed to add class member : Component U6 OLED 128X32
+Add Class Member: Failed to add class member : Component Y1 8.000MHZ
+Add Class Member: Failed to add class member : Component Y2 32.768 KHZ

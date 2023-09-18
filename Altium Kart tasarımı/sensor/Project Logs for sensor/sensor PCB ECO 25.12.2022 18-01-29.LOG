@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R9 Old Footprint=0805 Res New Footprint=0603 RES
+Change Component Footprint: Designator=R10 Old Footprint=0805 Res New Footprint=0603 RES
+Change Component Footprint: Designator=R11 Old Footprint=0805 Res New Footprint=0603 RES
+Added Room: Name=sensor

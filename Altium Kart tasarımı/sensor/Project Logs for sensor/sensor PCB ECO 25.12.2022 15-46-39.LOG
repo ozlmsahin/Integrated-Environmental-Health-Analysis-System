@@ -1,0 +1,5 @@
+Added Component: Designator=D3(SOD123)
+Added Pin To Net: NetName=NetC6_1 Pin=D3-1
+Added Pin To Net: NetName=5V Pin=D3-2
+Added Member To Class: ClassName=sensor Member=Component D3 B5819W
+Added Room: Name=sensor
